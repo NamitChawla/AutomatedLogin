@@ -2,6 +2,8 @@
 Target URL: https://www.zoho.com/
 
 ![Java](https://img.shields.io/badge/JDK-19.0.1-%2333ccff)
+![Static Badge](https://img.shields.io/badge/Selenium-4.9.0-%252333ccff)
+
 
 
 
