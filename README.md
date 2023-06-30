@@ -1,7 +1,6 @@
 # AutomateLogin for Login Automation on Zoho
 
 ![Java](https://img.shields.io/badge/JDK-19.0.1-%2333ccff)
-![WebDriver](https://img.shields.io/badge/Framework-Selenium WebDriver-red)
 
 
 
